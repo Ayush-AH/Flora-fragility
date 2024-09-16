@@ -1,0 +1,13 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+
+@font-face {
+    font-family: ogg;
+    src: url("../src/assets/Ogg-Light-BF646c18fc54ff4.ttf");
+}
+*{
+    font-family: ogg;
+    font-weight: 100;
+}
